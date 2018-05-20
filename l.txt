@@ -1,0 +1,17 @@
+Azure PowerShell
+Azure CLI
+Azure Powershall Core
+Sonar Qube
+Octopus Client API
+Azure Resource Manager
+Teamcity
+Grunt
+CSS
+Software Design Patterns
+React.JS
+JavaScript
+ECMA 6
+Angular 4
+.NET Core Web Api
+Web API Security - Oauth, openID Connect
+Versioning
